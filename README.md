@@ -1,7 +1,7 @@
 
 
 
-# prog-web
+# WEB GUIA EJERCICIO
 Pagina de los ejercicios propuestos en Programacion Web.
 
 
