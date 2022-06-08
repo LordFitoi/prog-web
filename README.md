@@ -2,11 +2,11 @@
 
 
 # TEMA: WEB GUIA
-Pagina de los ejercicios propuestos en Programacion Web.
+Paginas de los ejercicios propuestos en Programacion Web.
 
 
-Estudiante: Nahum Santana
-Matricula: 2021-0959
+**Estudiante:** Nahum Santana <br>
+**Matricula:** 2021-0959
 
 Ejercicio 1:
 - Realice una página web con la información de su programa de televisión favorito por ejemplo
