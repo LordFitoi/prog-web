@@ -21,4 +21,4 @@ debe mostrar los símbolos patrios, historia, extensión territorial, lista de d
 lugares turísticos más importantes. En este ejercicio se debe hacer uso de las etiquetas
 semánticas (header, section, footer, etc), imágenes, párrafos, etc.
 
-[AUN EN PROCESO DE ELABORACION]
+![screencapture-0-0-0-0-8000-index-html-2022-06-08-21_23_31](https://user-images.githubusercontent.com/37852973/172744463-78efa409-6af9-4b55-a4a8-927053b1b6f9.png)
